@@ -1,1 +1,4 @@
-Blah blah!
+Blah blah! 
+Hello = Guten tag 
+Good morning , Good afternoon , Good night = guten morgen , guten abend, gute nacht 
+Bye ( Formal , Informal ) = Auf Wiedersehen , Tschuss
